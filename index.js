@@ -18,6 +18,9 @@ class App extends Component {
         <p>
           Start editing to see some magic happen :)
         </p>
+        <p>
+          New app
+        </p>
       </div>
     );
   }
